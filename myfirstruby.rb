@@ -1,13 +1,5 @@
-puts "hello world"
+person_name = "Person_1", "Person_2", "Person_3"
+print person_name
 
-def say_hi (name)
-    puts "Hello #{name}"
-end
 
-a = 1
-b = 2
-puts "sum of a + b = #{a + b}"
 
-say_hi("john")
-
-@rating = {"Adele" => 1}
